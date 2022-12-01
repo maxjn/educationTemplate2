@@ -1,11 +1,14 @@
 ### rtl Multipage Egucational Template
 
+[Live Project Link](https://maxjn-businesstemplate2.pages.dev).
+
 ###### Technologies
 
 - HTML,Css
 - jQuery
 - Bootstrap grids for responsive
 - Swiper slider
+- icomoon
 
 ###### Features
 
@@ -17,7 +20,7 @@
 - contact form
 - accordion
 
-###### Pictures
+###### Images
 
 - index
   ![Index page](assets/img/index.png)
