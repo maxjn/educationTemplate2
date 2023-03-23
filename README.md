@@ -1,6 +1,6 @@
 ### rtl Multipage Egucational Template
 
-[Live Project Link](https://maxjn-businesstemplate2.pages.dev).
+[Live Project Link](https://maxjn-educationtemplate2.pages.dev/).
 
 ###### Technologies
 
